@@ -1,6 +1,10 @@
 #from django.contrib import admin
 
 # Register your models here.
+
+
+#You can register your python model here
+
 from django.contrib import admin
 from .models import YourModel  # Import your model(s) here
 
